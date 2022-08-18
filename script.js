@@ -11,7 +11,7 @@ return result
 
 console.log(BMI(70 , 1.7))
 
-function status(bmi) {
+function   Status (bmi) {
 if (bmi < 18.5) {
 return "‍لديك نقص في الوزن"
 
